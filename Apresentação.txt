@@ -6,3 +6,13 @@
 2. Tenho 24 anos e sou de Brasília.
 3. Em desde cedo fui influenciada por meu pai que é da area de computação. Sempre tive bastante facilidade com computadores, mas nunca achei que pudesse fazer disso uma profissão. Recentemente passei a me interessar pelo assunto e cá estou eu.
 
+## Fato sobre Matheus
+
+1. Me chamo Matheus Henrique Araujo Barbosa e tenho 20 anos;
+2. Sou natural de São Paulo, capital, porém eu moro no interior de SP;
+3. Desde que me entendo por gente eu tenho contato com a tecnologia, isso por que
+eu tinha um computador em casa. Então eu sempre fui apaixonado por essa telinha que
+faz coisas insanas. Com 16 anos ingressei no ensino médio com um curso integrado de 
+automação industrial, na qual tive o primeiro contato com programação. Passei 6 anos
+andando em circulo, sem saber qual caminho seguir(dentro de programação), mas agora
+em 2021, encontrei um caminho, a Kenzie.
